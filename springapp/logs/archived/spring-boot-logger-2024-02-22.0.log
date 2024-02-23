@@ -1,0 +1,49 @@
+2024-02-22 17:36:42,936 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 17.0.4.1 with PID 24148 (E:\GS2018\E\Yang\Program\Git\GitYang\Yang_Java_Batch\batch-ntd-usd\batch\target\classes started by yang in E:\GS2018\E\Yang\Program\Git\GitYang\Yang_Java_Batch\batch-ntd-usd\batch)
+2024-02-22 17:36:42,940 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-02-22 17:36:44,149 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.993 seconds (process running for 3.16)
+2024-02-22 17:36:44,153 INFO batch.DemoApplication [main] batch start
+2024-02-22 17:36:44,337 INFO batch.DemoApplication [main] start https call
+2024-02-22 17:36:44,784 INFO batch.DemoApplication [main] response code: HTTP/1.1 200 OK
+2024-02-22 17:37:35,352 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 17.0.4.1 with PID 36288 (E:\GS2018\E\Yang\Program\Git\GitYang\Yang_Java_Batch\batch-ntd-usd\batch\target\classes started by yang in E:\GS2018\E\Yang\Program\Git\GitYang\Yang_Java_Batch\batch-ntd-usd\batch)
+2024-02-22 17:37:35,355 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-02-22 17:37:36,283 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.439 seconds (process running for 2.672)
+2024-02-22 17:37:36,286 INFO batch.DemoApplication [main] batch start
+2024-02-22 17:37:36,475 INFO batch.DemoApplication [main] start https call
+2024-02-22 17:39:09,263 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication using Java 17.0.4.1 with PID 53896 (E:\GS2018\E\Yang\Program\Git\GitYang\Yang_Java_Batch\batch-ntd-usd\batch\target\classes started by yang in E:\GS2018\E\Yang\Program\Git\GitYang\Yang_Java_Batch\batch-ntd-usd\batch)
+2024-02-22 17:39:09,266 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-02-22 17:39:10,094 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 1.342 seconds (process running for 2.225)
+2024-02-22 17:39:10,097 INFO batch.DemoApplication [main] batch start
+2024-02-22 17:39:10,320 INFO batch.DemoApplication [main] start https call
+2024-02-22 17:39:10,717 INFO batch.DemoApplication [main] response code: HTTP/1.1 200 OK
+2024-02-22 17:39:10,720 INFO batch.DemoApplication [main] response:
+[{"Date":"20240102","USD/NTD":"30.866","RMB/NTD":"4.325685","EUR/USD":"1.1031","USD/JPY":"141.345","GBP/USD":"1.2757","AUD/USD":"0.6832","USD/HKD":"7.81295","USD/RMB":"7.1355","USD/ZAR":"18.3847","NZD/USD":"0.6312"},
+{"Date":"20240103","USD/NTD":"31.01","RMB/NTD":"4.338299","EUR/USD":"1.0963","USD/JPY":"142.435","GBP/USD":"1.26495","AUD/USD":"0.67565","USD/HKD":"7.81025","USD/RMB":"7.14795","USD/ZAR":"18.54865","NZD/USD":"0.6264"},
+{"Date":"20240104","USD/NTD":"31.016","RMB/NTD":"4.334207","EUR/USD":"1.0947","USD/JPY":"143.465","GBP/USD":"1.26855","AUD/USD":"0.6751","USD/HKD":"7.8067","USD/RMB":"7.1561","USD/ZAR":"18.643","NZD/USD":"0.62735"},
+{"Date":"20240105","USD/NTD":"31.025","RMB/NTD":"4.328515","EUR/USD":"1.0924","USD/JPY":"144.975","GBP/USD":"1.26865","AUD/USD":"0.67","USD/HKD":"7.8094","USD/RMB":"7.1676","USD/ZAR":"18.7534","NZD/USD":"0.62315"},
+{"Date":"20240108","USD/NTD":"31.001","RMB/NTD":"4.322686","EUR/USD":"1.0933","USD/JPY":"144.555","GBP/USD":"1.2698","AUD/USD":"0.66885","USD/HKD":"7.8091","USD/RMB":"7.1717","USD/ZAR":"18.7882","NZD/USD":"0.6223"},
+{"Date":"20240109","USD/NTD":"31.023","RMB/NTD":"4.326654","EUR/USD":"1.0943","USD/JPY":"144.245","GBP/USD":"1.27345","AUD/USD":"0.66965","USD/HKD":"7.81425","USD/RMB":"7.1702","USD/ZAR":"18.6657","NZD/USD":"0.62395"},
+{"Date":"20240110","USD/NTD":"31.14","RMB/NTD":"4.334034","EUR/USD":"1.0931","USD/JPY":"144.955","GBP/USD":"1.27085","AUD/USD":"0.6697","USD/HKD":"7.8186","USD/RMB":"7.185","USD/ZAR":"18.69745","NZD/USD":"0.6238"},
+{"Date":"20240111","USD/NTD":"31.103","RMB/NTD":"4.33806","EUR/USD":"1.0975","USD/JPY":"145.385","GBP/USD":"1.2764","AUD/USD":"0.6716","USD/HKD":"7.8175","USD/RMB":"7.1698","USD/ZAR":"18.64595","NZD/USD":"0.6253"},
+{"Date":"20240112","USD/NTD":"31.129","RMB/NTD":"4.340348","EUR/USD":"1.0974","USD/JPY":"144.995","GBP/USD":"1.27705","AUD/USD":"0.6709","USD/HKD":"7.81825","USD/RMB":"7.172","USD/ZAR":"18.5817","NZD/USD":"0.62505"},
+{"Date":"20240115","USD/NTD":"31.215","RMB/NTD":"4.344972","EUR/USD":"1.0963","USD/JPY":"145.365","GBP/USD":"1.27555","AUD/USD":"0.667","USD/HKD":"7.82115","USD/RMB":"7.18415","USD/ZAR":"18.6653","NZD/USD":"0.6205"},
+{"Date":"20240116","USD/NTD":"31.392","RMB/NTD":"4.361573","EUR/USD":"1.0913","USD/JPY":"146.145","GBP/USD":"1.2664","AUD/USD":"0.6615","USD/HKD":"7.8215","USD/RMB":"7.1974","USD/ZAR":"18.8555","NZD/USD":"0.6167"},
+{"Date":"20240117","USD/NTD":"31.589","RMB/NTD":"4.375961","EUR/USD":"1.0878","USD/JPY":"147.775","GBP/USD":"1.2671","AUD/USD":"0.6551","USD/HKD":"7.82315","USD/RMB":"7.21875","USD/ZAR":"19.003","NZD/USD":"0.6119"},
+{"Date":"20240118","USD/NTD":"31.571","RMB/NTD":"4.374541","EUR/USD":"1.0879","USD/JPY":"147.855","GBP/USD":"1.26835","AUD/USD":"0.6553","USD/HKD":"7.81975","USD/RMB":"7.217","USD/ZAR":"18.99955","NZD/USD":"0.611"},
+{"Date":"20240119","USD/NTD":"31.44","RMB/NTD":"4.363149","EUR/USD":"1.0879","USD/JPY":"148.215","GBP/USD":"1.26805","AUD/USD":"0.658","USD/HKD":"7.8205","USD/RMB":"7.2058","USD/ZAR":"18.97305","NZD/USD":"0.61065"},
+{"Date":"20240122","USD/NTD":"31.352","RMB/NTD":"4.352034","EUR/USD":"1.0893","USD/JPY":"148.085","GBP/USD":"1.2698","AUD/USD":"0.6589","USD/HKD":"7.8175","USD/RMB":"7.204","USD/ZAR":"19.14695","NZD/USD":"0.6108"},
+{"Date":"20240123","USD/NTD":"31.328","RMB/NTD":"4.367844","EUR/USD":"1.09025","USD/JPY":"147.405","GBP/USD":"1.27365","AUD/USD":"0.6596","USD/HKD":"7.82225","USD/RMB":"7.1724","USD/ZAR":"19.0823","NZD/USD":"0.60985"},
+{"Date":"20240124","USD/NTD":"31.345","RMB/NTD":"4.373411","EUR/USD":"1.0874","USD/JPY":"147.695","GBP/USD":"1.2716","AUD/USD":"0.6591","USD/HKD":"7.82055","USD/RMB":"7.1672","USD/ZAR":"18.867","NZD/USD":"0.6118"},
+{"Date":"20240125","USD/NTD":"31.315","RMB/NTD":"4.36791","EUR/USD":"1.08875","USD/JPY":"147.755","GBP/USD":"1.27295","AUD/USD":"0.65795","USD/HKD":"7.81785","USD/RMB":"7.16935","USD/ZAR":"18.86265","NZD/USD":"0.61155"},
+{"Date":"20240126","USD/NTD":"31.305","RMB/NTD":"4.353837","EUR/USD":"1.08255","USD/JPY":"147.805","GBP/USD":"1.2689","AUD/USD":"0.65815","USD/HKD":"7.81395","USD/RMB":"7.1902","USD/ZAR":"18.9236","NZD/USD":"0.60955"},
+{"Date":"20240129","USD/NTD":"31.253","RMB/NTD":"4.346949","EUR/USD":"1.0838","USD/JPY":"147.855","GBP/USD":"1.271","AUD/USD":"0.6598","USD/HKD":"7.81385","USD/RMB":"7.18965","USD/ZAR":"18.7808","NZD/USD":"0.6111"},
+{"Date":"20240130","USD/NTD":"31.162","RMB/NTD":"4.335694","EUR/USD":"1.0825","USD/JPY":"147.425","GBP/USD":"1.269","AUD/USD":"0.6606","USD/HKD":"7.81535","USD/RMB":"7.1873","USD/ZAR":"18.8295","NZD/USD":"0.61395"},
+{"Date":"20240131","USD/NTD":"31.301","RMB/NTD":"4.355409","EUR/USD":"1.0812","USD/JPY":"147.595","GBP/USD":"1.2677","AUD/USD":"0.658","USD/HKD":"7.8184","USD/RMB":"7.1867","USD/ZAR":"18.7415","NZD/USD":"0.6125"},
+{"Date":"20240201","USD/NTD":"31.338","RMB/NTD":"4.354697","EUR/USD":"1.0785","USD/JPY":"146.675","GBP/USD":"1.26485","AUD/USD":"0.65215","USD/HKD":"7.81815","USD/RMB":"7.19635","USD/ZAR":"18.75215","NZD/USD":"0.60965"},
+{"Date":"20240202","USD/NTD":"31.243","RMB/NTD":"4.345151","EUR/USD":"1.0885","USD/JPY":"146.625","GBP/USD":"1.2765","AUD/USD":"0.6594","USD/HKD":"7.8193","USD/RMB":"7.1903","USD/ZAR":"18.60255","NZD/USD":"0.6153"},
+{"Date":"20240205","USD/NTD":"31.375","RMB/NTD":"4.348324","EUR/USD":"1.07855","USD/JPY":"148.455","GBP/USD":"1.26265","AUD/USD":"0.6513","USD/HKD":"7.82175","USD/RMB":"7.2154","USD/ZAR":"18.9391","NZD/USD":"0.60765"},
+{"Date":"20240215","USD/NTD":"31.425","RMB/NTD":"4.350823","EUR/USD":"1.07355","USD/JPY":"150.075","GBP/USD":"1.2552","AUD/USD":"0.65","USD/HKD":"7.82005","USD/RMB":"7.22275","USD/ZAR":"19.0143","NZD/USD":"0.6089"},
+{"Date":"20240216","USD/NTD":"31.364","RMB/NTD":"4.343914","EUR/USD":"1.0761","USD/JPY":"150.255","GBP/USD":"1.2582","AUD/USD":"0.6518","USD/HKD":"7.82225","USD/RMB":"7.2202","USD/ZAR":"18.9281","NZD/USD":"0.60965"},
+{"Date":"20240219","USD/NTD":"31.395","RMB/NTD":"4.353702","EUR/USD":"1.0785","USD/JPY":"149.965","GBP/USD":"1.26265","AUD/USD":"0.6544","USD/HKD":"7.82095","USD/RMB":"7.2111","USD/ZAR":"18.8986","NZD/USD":"0.6152"},
+{"Date":"20240220","USD/NTD":"31.492","RMB/NTD":"4.369011","EUR/USD":"1.0773","USD/JPY":"150.355","GBP/USD":"1.2587","AUD/USD":"0.6534","USD/HKD":"7.82165","USD/RMB":"7.20805","USD/ZAR":"19.0329","NZD/USD":"0.61415"},
+{"Date":"20240221","USD/NTD":"31.525","RMB/NTD":"4.382322","EUR/USD":"1.0811","USD/JPY":"150.135","GBP/USD":"1.2629","AUD/USD":"0.6564","USD/HKD":"7.82025","USD/RMB":"7.1937","USD/ZAR":"18.8832","NZD/USD":"0.6191"}]
+2024-02-22 17:39:10,801 INFO batch.DemoApplication [main] 
